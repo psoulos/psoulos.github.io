@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Discovering the Compositional Structure of Vector Representations with Role Learning Networks"
+date:   2020-11-01 22:21:59 +00:00
+image: /images/role.png
+categories: research
+author: "Paul Soulos"
+authors: "<strong>Paul Soulos</strong>, R. Thomas McCoy, Tal Linzen, Paul Smolensky"
+arxiv: "https://arxiv.org/abs/1910.09113"
+code: https://github.com/psoulos/role-decomposition
+venue: "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP"
+---
+
+TODO
+
+
+
+
+

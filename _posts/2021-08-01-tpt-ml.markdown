@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Structural Biases for Improving Transformers on Translation into Morphologically Rich Languages"
+date:   2021-08-01 22:21:59 +00:00
+image: /images/tpt-ml.png
+categories: research
+author: "Paul Soulos"
+authors: "<strong>Paul Soulos</strong>, Sudha Rao, Caitlin Smith, Eric Rosen, Asli Celikyilmaz, R. Thomas McCoy, Yichen Jiang, Coleman Haley, Roland Fernandez, Hamid Palangi, Jianfeng Gao, Paul Smolensky"
+arxiv: "https://arxiv.org/abs/2208.06061"
+venue: "Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021)"
+---
+TODO

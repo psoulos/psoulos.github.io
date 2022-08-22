@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Disentangled Face Representations in Humans and Machines"
+date:   2022-08-11 22:21:59 +00:00
+image: /images/ffa.png
+categories: research
+author: "Paul Soulos"
+authors: "<strong>Paul Soulos</strong>, Leyla Isik"
+venue: "Conference on Cognitive Computational Neuroscience"
+---
+TODO

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Enriching Transformers with Structured Tensor-Product Representations for Abstractive Summarization"
+date:   2021-06-01 22:21:59 +00:00
+image: /images/tpt-summ.png
+categories: research
+author: "Paul Soulos"
+authors: "Yichen Jiang, Asli Celikyilmaz, Paul Smolensky, <strong>Paul Soulos</strong>, Sudha Rao, Hamid Palangi, Roland Fernandez, Caitlin Smith, Mohit Bansal, Jianfeng Gao"
+arxiv: "https://arxiv.org/abs/2106.01317"
+venue: "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+---
+TODO
+
+
