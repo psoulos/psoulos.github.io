@@ -10,8 +10,6 @@ arxiv: "https://arxiv.org/abs/1805.07647"
 venue: "Journal of Vision"
 ---
 
-TODO
-
 
 
 

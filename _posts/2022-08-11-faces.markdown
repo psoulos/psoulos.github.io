@@ -8,4 +8,3 @@ author: "Paul Soulos"
 authors: "<strong>Paul Soulos</strong>, Leyla Isik"
 venue: "Conference on Cognitive Computational Neuroscience"
 ---
-TODO

@@ -9,4 +9,3 @@ authors: "<strong>Paul Soulos</strong>, Sudha Rao, Caitlin Smith, Eric Rosen, As
 arxiv: "https://arxiv.org/abs/2208.06061"
 venue: "Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021)"
 ---
-TODO
