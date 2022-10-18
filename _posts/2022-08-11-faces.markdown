@@ -6,5 +6,7 @@ image: /images/ffa.png
 categories: research
 author: "Paul Soulos"
 authors: "<strong>Paul Soulos</strong>, Leyla Isik"
+paper: /papers/ccn22.pdf
+poster: /posters/ccn22.pdf
 venue: "Conference on Cognitive Computational Neuroscience"
 ---
