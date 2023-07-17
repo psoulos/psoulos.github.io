@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Differentiable Tree Operations Promote Compositional Generalization"
+date:   2023-07-07 22:21:59 +00:00
+categories: research
+author: "Paul Soulos"
+authors: "<strong>Paul Soulos</strong>, Edward Hu, Kate McCurdy, Yunmo Chen, Roland Fernandez, Paul Smolensky, Jianfeng Gao"
+poster: "https://icml.cc/media/PosterPDFs/ICML%202023/23453.png"
+venue: "Proceedings of the 40th International Conference on Machine Learning"
+code: "https://github.com/psoulos/dtm"
+paper: "https://proceedings.mlr.press/v202/soulos23a.html"
+arxiv: "https://arxiv.org/abs/2306.00751"
+image: /images/dtm.png
+---

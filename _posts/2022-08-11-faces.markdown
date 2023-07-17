@@ -6,7 +6,8 @@ image: /images/ffa.png
 categories: research
 author: "Paul Soulos"
 authors: "<strong>Paul Soulos</strong>, Leyla Isik"
-paper: /papers/ccn22.pdf
 poster: /posters/ccn22.pdf
+arxiv: "https://www.biorxiv.org/content/10.1101/2023.02.15.528489v2"
 venue: "Conference on Cognitive Computational Neuroscience"
+code: "https://github.com/psoulos/disentangle-faces"
 ---
