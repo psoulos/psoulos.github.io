@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "Disentangled Face Representations in Humans and Machines"
-date:   2022-08-11 22:21:59 +00:00
+date:   2024-01-11 22:21:59 +00:00
 image: /images/ffa.png
 categories: research
 author: "Paul Soulos"
 authors: "<strong>Paul Soulos</strong>, Leyla Isik"
 poster: /posters/ccn22.pdf
 arxiv: "https://www.biorxiv.org/content/10.1101/2023.02.15.528489v2"
-venue: "Conference on Cognitive Computational Neuroscience"
+paper: "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011887"
+venue: "PLOS Computational Biology"
 code: "https://github.com/psoulos/disentangle-faces"
 ---

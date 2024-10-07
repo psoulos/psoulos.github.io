@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Compositional Generalization Across Distributional Shifts with Sparse Tree Operations"
+date:   2024-10-01 22:21:59 +00:00
+categories: research
+author: "Paul Soulos"
+award: "Spotlight Award"
+authors: "<strong>Paul Soulos</strong>, Henry Conklin, Mattia Opper, Paul Smolensky, Jianfeng Gao, Roland Fernandez"
+poster: https://neurips.cc/virtual/2024/poster/94209
+venue: "Thirty-seventh Conference on Neural Information Processing Systems"
+image: /images/dtm2.png
+---
