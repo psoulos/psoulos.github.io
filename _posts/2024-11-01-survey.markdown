@@ -6,5 +6,6 @@ categories: research
 author: "Paul Soulos"
 authors: "Kate McCurdy, <strong>Paul Soulos</strong>, Paul Smolensky"
 venue: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing"
+paper: https://aclanthology.org/2024.emnlp-main.524/
 image: /images/CB_log_geog.png
 ---
