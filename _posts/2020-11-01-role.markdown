@@ -6,6 +6,8 @@ image: /images/role.png
 categories: research
 author: "Paul Soulos"
 authors: "<strong>Paul Soulos</strong>, R. Thomas McCoy, Tal Linzen, Paul Smolensky"
+award: "Spotlight oral presentation at Workshop on Context and Compositionality in Biological and Artificial Neural 
+Systems, NeurIPS 2019"
 arxiv: "https://arxiv.org/abs/1910.09113"
 code: https://github.com/psoulos/role-decomposition
 venue: "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP"
