@@ -11,4 +11,6 @@ Systems, NeurIPS 2019"
 arxiv: "https://arxiv.org/abs/1910.09113"
 code: https://github.com/psoulos/role-decomposition
 venue: "Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP"
+videoLink: "https://slideslive.com/38922744/uncovering-the-compositional-structure-of-vector-representations-with-role-learning-networks?ref=search-presentations"
+videoDuration: 10
 ---
