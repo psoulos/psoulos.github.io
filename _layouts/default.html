@@ -116,9 +116,9 @@
               {% if post.slides %}
               <a href="{{post.slides}}">slides</a> /
               {% endif %}
-              {% if post.videoLink and post.videoDuration %}
-                <a href="{{ post.videoLink }}">{{ post.videoDuration }}-minute video</a> /
-              {% endif %}
+              {% for vid in post.videos %}
+                <a href="{{ vid.link }}">{{ vid.duration }}-minute video</a> /
+              {% endfor %}
               <p></p>
               {{ post.excerpt }}
             </td>

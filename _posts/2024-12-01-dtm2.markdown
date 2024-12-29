@@ -10,4 +10,7 @@ paper: https://openreview.net/forum?id=fOQunr2E0T
 poster: https://neurips.cc/virtual/2024/poster/94209
 venue: "Thirty-seventh Conference on Neural Information Processing Systems"
 image: /images/dtm2.png
+videos:
+  - link: "https://www.youtube.com/watch?v=JGnJ5EF5EkA"
+    duration: 80
 ---
