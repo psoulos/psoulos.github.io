@@ -3,6 +3,7 @@ layout: post
 title:  "Compositional Generalization Across Distributional Shifts with Sparse Tree Operations"
 date:   2024-10-01 22:21:59 +00:00
 categories: research
+code: "https://github.com/psoulos/sdtm"
 author: "Paul Soulos"
 awards: ["Spotlight Award", "Spotlight oral presentation at System 2 Reasoning Workshop, NeurIPS 2024"]
 authors: "<strong>Paul Soulos</strong>, Henry Conklin, Mattia Opper, Paul Smolensky, Jianfeng Gao, Roland Fernandez"
