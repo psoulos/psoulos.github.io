@@ -12,5 +12,7 @@ venue: "Thirty-seventh Conference on Neural Information Processing Systems"
 image: /images/dtm2.png
 videos:
   - link: "https://www.youtube.com/watch?v=JGnJ5EF5EkA"
-    duration: 80
+    duration: 60
+  - link: "https://slideslive.com/embed/presentation/39031276?js_embed_version=3&embed_init_token=eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3MzgxNzU4MjYsImV4cCI6MTczODMwNTQyNiwidSI6eyJ1dWlkIjoiY2RiMjc4OGQtYTI1ZS00N2MyLThkMmYtMjg1ZmFmZjU5N2E5IiwiaSI6bnVsbCwiZSI6bnVsbCwibSI6ZmFsc2V9LCJkIjoibmV1cmlwcy5jYyJ9.jvnFXXJbSNhL7Nd6LPdgV7Fygqe_oJ9n_eZsOa-Y7BA&embed_parent_url=https%3A%2F%2Fneurips.cc%2Fvirtual%2F2024%2Fworkshop%2F84749&embed_origin=https%3A%2F%2Fneurips.cc&embed_container_id=presentation-embed-39031276&auto_load=true&auto_play=false&zoom_ratio=&disable_fullscreen=false&locale=en&vertical_enabled=true&vertical_enabled_on_mobile=false&allow_hidden_controls_when_paused=true&fit_to_viewport=true&custom_user_id=&user_uuid=cdb2788d-a25e-47c2-8d2f-285faff597a9"
+    duration: 10
 ---
